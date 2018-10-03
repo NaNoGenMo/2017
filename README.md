@@ -1,3 +1,5 @@
+# _This is for the 2017 NaNoGenMo. [See here](https://github.com/NaNoGenMo/2018) for the 2018 repo!_
+
 # NaNoGenMo 2017
 
 National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
