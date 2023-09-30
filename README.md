@@ -12,9 +12,9 @@
 [~admin]: https://img.shields.io/badge/issues-admin-fef2c0.svg
 [~twitter]: https://img.shields.io/badge/twitter-NaNoGenMoBot-00aced.svg?logo=twitter
 
-National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
+National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://tinysubversions.com/twitter-archive/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
 
-<p align="center"><a href="https://twitter.com/tinysubversions/status/396305662000775168"><img src="https://nanogenmo.github.io/tweet.png" width="600" height="338" alt="Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel & the code at the end"></a></p>
+<p align="center"><a href="https://tinysubversions.com/twitter-archive/tinysubversions/status/396305662000775168"><img src="https://nanogenmo.github.io/tweet.png" width="600" height="338" alt="Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel & the code at the end"></a></p>
 
 This is the 2017 edition. For previous years see:
 * [2016](https://github.com/NaNoGenMo/2016)
